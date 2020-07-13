@@ -1,0 +1,38 @@
+[
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Books",
+    "slug": "books",
+    "description": "More specific examples of social problems that are addressed in such works include poverty, conditions in factories and mines, the plight of child labor, violence against women, rising criminality, and epidemics because of over-crowding, and poor sanitation in cities.",
+    "active": true
+  }
+},
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Essays",
+    "slug": "essays",
+    "description": "The adolescent problem novel is rather loosely defined. Rose Mary Honnold in The Teen Reader's Advisor defines them as dealing more with characters from lower-class families and their problems and as using \"grittier\", more realistic language, including dialects, profanity, and poor grammar, when it fits the character and setting.",
+    "active": true
+  }
+},
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Debate",
+    "slug": "debate",
+    "description": "The adolescent problem novel is rather loosely defined. Rose Mary Honnold in The Teen Reader's Advisor defines them as dealing more with characters from lower-class families and their problems and as using \"grittier\", more realistic language, including dialects, profanity, and poor grammar, when it fits the character and setting.",
+    "active": true
+  }
+},
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Other",
+    "slug": "other",
+    "description": "The adolescent problem novel is rather loosely defined. Rose Mary Honnold in The Teen Reader's Advisor defines them as dealing more with characters from lower-class families and their problems and as using \"grittier\", more realistic language, including dialects, profanity, and poor grammar, when it fits the character and setting.",
+    "active": true
+  }
+}
+]

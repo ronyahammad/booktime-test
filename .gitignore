@@ -1,0 +1,10 @@
+/booktime/settings
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+bundles/
+node_modules/
+webpack-stats.json
+geckodriver.log
+.env
